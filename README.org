@@ -4,6 +4,6 @@ Clojure-style concurrency operations in Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dtenny/clj-con.git |
-| commit  | dd83fd7                                   |
+| commit  | b1a620d                                   |
 | systems | clj-con                                   |
 |---------+-------------------------------------------|
